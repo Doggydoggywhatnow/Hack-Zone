@@ -14,6 +14,5 @@ I may update this note later, but every line after this one is written by AI. En
 | [Adderall](https://github.com/Doggydoggywhatnow/Adderall) | A grid-based habit tracker written in C: one row of cells per habit, one cell per day, stored locally with no accounts or subscriptions. |
 | [Peep](https://github.com/Doggydoggywhatnow/Peep) | A minimalist music player that is just a screen: the album cover is the whole interface. Written in x86-64 assembly, with no network code, telemetry or library database. |
 | [lib-Peep](https://github.com/Doggydoggywhatnow/lib-Peep) | "Liberated Peep": Peep's playback kernel as a tiny assembly library (WAV and FLAC decoding for x86-64 and ARM64) that any program able to call C can use. |
-| [Cinlib](https://github.com/Doggydoggywhatnow/Cinlib) | A video player and library for your files built on MPV, which keeps a local viewing history so you can see at a glance what you have and haven't watched. |
 | [8tris](https://github.com/Doggydoggywhatnow/8tris) | A minimal, endlessly customizable Tetris as one small native program: any board size, custom pieces, themes, sounds, keys and pace. |
 | [PersonaliDy](https://github.com/Doggydoggywhatnow/PersonaliDy) | A fork of the OpenStreetMap iD editor that adds power-mapping features for experienced users: rapid node placement, quickdraw, zoom preferences and Node2Area. |
