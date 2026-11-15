@@ -5,6 +5,15 @@ This repo serves as a portal to easily access all of the software that I have be
 
 I may update this note later, but every line after this one is written by AI. Enjoy!
 
+## What all of these projects have in common
+
+- Every project is a public repository under [Doggydoggywhatnow](https://github.com/Doggydoggywhatnow), and you can read, download and build all of it for free.
+- Every project is vibecoded: written with AI, for my own use and fun.
+- Every project exists because of a grievance with modern software, and aims to be a smaller, more focused alternative.
+- None of them requires an account, subscription or payment to use.
+
+Licensing is not identical everywhere: most projects are under the Unlicense, but PersonaliDy keeps iD's ISC license because it is a fork.
+
 ## Projects
 
 | Project | Goal of the software |
