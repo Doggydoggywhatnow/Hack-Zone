@@ -8,7 +8,7 @@ I may update this note later, but every line after this one is written by AI. En
 ## What all of these projects have in common
 
 - Every project is a public repository under [Doggydoggywhatnow](https://github.com/Doggydoggywhatnow), and you can read, download and build all of it for free.
-- Every project is vibecoded: written with AI, for my own use and fun.
+- Every project is vibecoded: written with AI, for the fun and personal use of its creator.
 - Every project exists because of a grievance with modern software, and aims to be a smaller, more focused alternative.
 - None of them requires an account, subscription or payment to use.
 
