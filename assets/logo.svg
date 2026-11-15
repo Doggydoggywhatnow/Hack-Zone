@@ -13,7 +13,7 @@
   <g stroke="#12202b" stroke-width="1">
     <path d="M0 40H640M0 80H640M0 120H640M0 160H640M80 0V200M160 0V200M240 0V200M320 0V200M400 0V200M480 0V200M560 0V200"/>
   </g>
-  <g filter="url(#glow)" fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(24 0)" filter="url(#glow)" fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round">
     <polygon points="100,58 140.7,81.5 140.7,128.5 100,152 59.3,128.5 59.3,81.5" stroke-width="6"/>
     <polygon points="100,77 124.2,91 124.2,119 100,133 75.8,119 75.8,91" stroke-width="3" opacity=".55"/>
     <path d="M91 96L81 105L91 114M109 96L119 105L109 114" stroke-width="5"/>
